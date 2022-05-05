@@ -1,0 +1,3 @@
+document.write("<b>3 Funciones de los arreglos</b> <br> <br>.<b>Every:</b>  Determines whether all the members of an array satisfy the specified test.<br> . <b>Fill:</b>   Cambia todos los elementos de la matriz desde el índice de inicio hasta el final a un valor estático y devuelve la matriz modificada<br> . <b>Filter:</b>  Devuelve los elementos de una matriz que cumplen la condición especificada en una función de devolución de llamada.");
+
+document.write(" <br> <br> <br> <b> Propiedades de los arreglos</b> <br> <br>.<b>length:</b>  Obtiene o establece la longitud de la matriz. Este es un número uno más alto que el índice más alto de la matriz.");
